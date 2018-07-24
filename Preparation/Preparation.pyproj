@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>311d1c6f-8a50-4bc7-896d-5d4bc546b8f3</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Preparation.py</StartupFile>
+    <StartupFile>LinearSort.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>

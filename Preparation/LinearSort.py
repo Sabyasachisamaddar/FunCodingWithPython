@@ -1,9 +1,10 @@
+import random
 #Creating a x size array
 
-size = raw_input("What is the size of the array ?")
-
+size = int(input("What is the size of the array ?"))
+arr = array
 for x in range(0,size):
-    arr[x] = random.radint(0,9)
+    arr[x] = random.randint(0,9)
 
 print(arr)
 
